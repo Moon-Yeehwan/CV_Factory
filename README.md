@@ -29,3 +29,27 @@ CVFactory_project/
 │   └── data_management/
 ├── bulletin_board-main/
 │   └── board/
+
+## 🚀 설치 및 실행 방법
+
+### 1. 저장소 클론
+```bash
+git clone https://github.com/Moon-Yeehwan/CV_Factory.git
+cd CV_Factory
+
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+cd Main_Server-main
+python manage.py runserver
+
+## ✨ 사용 예시
+
+1. 메인 페이지에서 키워드를 입력  
+   예시: `AI`, `데이터 분석`, `창의성`, `협업`
+
+2. 버튼 클릭 시 → LLM 기반 자소서 자동 생성
+
+3. 결과 예시:
