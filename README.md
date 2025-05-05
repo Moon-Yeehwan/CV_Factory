@@ -53,3 +53,14 @@ python manage.py runserver
 2. 버튼 클릭 시 → LLM 기반 자소서 자동 생성
 
 3. 결과 예시:
+
+CVFactory는 아래처럼 키워드 입력만으로 자소서를 자동 생성할 수 있습니다.
+
+### 🔹 1. 입력 화면
+![입력 화면](https://raw.githubusercontent.com/Moon-Yeehwan/CV_Factory/main/demo_screenshot_1.png)
+
+### 🔹 2. 생성 중 화면
+![생성 중](https://raw.githubusercontent.com/Moon-Yeehwan/CV_Factory/main/demo_screenshot_2.png)
+
+### 🔹 3. 생성 완료 결과
+![생성 결과](https://raw.githubusercontent.com/Moon-Yeehwan/CV_Factory/main/demo_screenshot_3.png)
