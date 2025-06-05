@@ -64,3 +64,5 @@ CVFactory는 아래처럼 키워드 입력만으로 자소서를 자동 생성�
 
 ### 🔹 3. 생성 완료 결과
 ![생성 결과](https://raw.githubusercontent.com/Moon-Yeehwan/CV_Factory/main/demo_screenshot_3.png)
+
+## 📌 시연 영상 및 보고서서
