@@ -33,7 +33,6 @@ CVFactory_project/
 ## 🚀 설치 및 실행 방법
 
 ### 1. 저장소 클론
-```bash
 git clone https://github.com/Moon-Yeehwan/CV_Factory.git
 cd CV_Factory
 
