@@ -72,14 +72,14 @@ CVFactory는 아래처럼 키워드 입력만으로 자소서를 자동 생성�
 
 ### ▶️ 1분 시연 영상 보러가기
 
-[![시연 영상 썸네일](https://raw.githubusercontent.com/Moon-Yeehwan/CV_Factory/main/demo_screenshot_1.png)](https://raw.githubusercontent.com/Moon-Yeehwan/CV_Factory/main/1분%20시연%20영상.mp4)
+[![시연 영상 썸네일](demo_screenshot_1.png)](https://github.com/Moon-Yeehwan/CV_Factory/raw/main/1분%20시연%20영상.mp4)
 
-> 위 이미지를 클릭하면 시연 영상을 재생할 수 있습니다.
+> 🔗 위 이미지를 클릭하면 시연 영상(mp4)이 재생됩니다.
 
 ---
 
 ### 📄 CV_Factory 발표 보고서 (PDF)
 
-[📄 PDF 파일 다운로드](./CV_Factory%20보고서.pdf)
+[📄 PDF 다운로드](https://github.com/Moon-Yeehwan/CV_Factory/raw/main/CV_Factory%20보고서.pdf)
 
 
